@@ -1,0 +1,12 @@
+0:Black-grass
+1:Scentless Mayweed
+2:Charlock
+3:Cleavers
+4:Small-flowered Cranesbill
+5:Shepherds Purse
+6:Loose Silky-bent
+7:Sugar beet
+8:Fat Hen
+9:Common Chickweed
+10:Maize
+11:Common wheat
